@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sander</h1>
-<h3 align="center">A hobby game maker</h3>
+<h3 align="center">A hobby game maker and coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=00silent00&label=Profile%20views&color=0e75b6&style=flat" alt="00silent00" /> </p>
 
 
-- 🔭 I’m currently working on a survival game
+- 🔭 I’m currently working on a Smart home system using arduino
 
-- 🌱 I’m currently learning **Unity and Blender**
+- 🌱 I’m currently learning **React and C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
